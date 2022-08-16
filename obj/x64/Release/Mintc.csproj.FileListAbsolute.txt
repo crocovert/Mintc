@@ -1,0 +1,6 @@
+C:\Users\patrick.palmier\source\repos\Mintc\Mintc\bin\x64\Release\Mintc.exe.config
+C:\Users\patrick.palmier\source\repos\Mintc\Mintc\bin\x64\Release\Mintc.exe
+C:\Users\patrick.palmier\source\repos\Mintc\Mintc\bin\x64\Release\Mintc.pdb
+C:\Users\patrick.palmier\source\repos\Mintc\Mintc\obj\x64\Release\Mintc.csproj.CoreCompileInputs.cache
+C:\Users\patrick.palmier\source\repos\Mintc\Mintc\obj\x64\Release\Mintc.exe
+C:\Users\patrick.palmier\source\repos\Mintc\Mintc\obj\x64\Release\Mintc.pdb

@@ -1,0 +1,7 @@
+C:\Users\patrick.palmier\source\repos\Mintc\Mintc\bin\Debug\Mintc.exe.config
+C:\Users\patrick.palmier\source\repos\Mintc\Mintc\bin\Debug\Mintc.exe
+C:\Users\patrick.palmier\source\repos\Mintc\Mintc\bin\Debug\Mintc.pdb
+C:\Users\patrick.palmier\source\repos\Mintc\Mintc\obj\Debug\Mintc.csprojAssemblyReference.cache
+C:\Users\patrick.palmier\source\repos\Mintc\Mintc\obj\Debug\Mintc.csproj.CoreCompileInputs.cache
+C:\Users\patrick.palmier\source\repos\Mintc\Mintc\obj\Debug\Mintc.exe
+C:\Users\patrick.palmier\source\repos\Mintc\Mintc\obj\Debug\Mintc.pdb
