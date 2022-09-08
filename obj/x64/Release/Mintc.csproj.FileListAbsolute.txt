@@ -5,3 +5,7 @@ C:\Users\patrick.palmier\source\repos\Mintc\Mintc\obj\x64\Release\Mintc.csproj.C
 C:\Users\patrick.palmier\source\repos\Mintc\Mintc\obj\x64\Release\Mintc.exe
 C:\Users\patrick.palmier\source\repos\Mintc\Mintc\obj\x64\Release\Mintc.pdb
 C:\Users\patrick.palmier\source\repos\Mintc\Mintc\obj\x64\Release\Mintc.csprojAssemblyReference.cache
+C:\Users\patrick.palmier\source\repos\Mintc\Mintc\bin\x64\Release\Mintc.exe.manifest
+C:\Users\patrick.palmier\source\repos\Mintc\Mintc\bin\x64\Release\Mintc.application
+C:\Users\patrick.palmier\source\repos\Mintc\Mintc\obj\x64\Release\Mintc.exe.manifest
+C:\Users\patrick.palmier\source\repos\Mintc\Mintc\obj\x64\Release\Mintc.application
