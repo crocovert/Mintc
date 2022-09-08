@@ -959,7 +959,10 @@ namespace Mintc
             foreach (Link link in reseau.links)
             {
                 //fich_res.WriteLine("d;id;i;j;line;ij;hdwy;time;cout;temps");
-                fich_res.WriteLine(trip.d + ";" + link.id + ";" + link.i + ";" + link.j + ";" + link.line + ";" + link.i + "-" + link.j + ";" + link.hdwy + ";" + link.time + ";" + link.avg_cout + ";" + link.avg_time);
+                if (link.avg_cout > 0)
+                {
+                    fich_res.WriteLine(trip.d + ";" + link.id + ";" + link.i + ";" + link.j + ";" + link.line + ";" + link.i + "-" + link.j + ";" + link.hdwy + ";" + link.time + ";" + link.avg_cout + ";" + link.avg_time);
+                }
 
 
             }
