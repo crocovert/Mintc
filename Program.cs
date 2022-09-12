@@ -66,7 +66,7 @@ namespace Mintc
                 avance++;
                 NetworkInit(reseau);
                 Console.SetCursorPosition(cleft, ctop);
-                Console.Write("Destinations: " + 100 * avance / matrice.trips.Count + "/" + matrice.trips.Count);
+                Console.Write("Destinations: " + 1 * avance / matrice.trips.Count + "/" + matrice.trips.Count);
                 Link pivot = new Link();
                 pivot.line = "0";
                 pivot.hdwy = 0;
@@ -137,8 +137,7 @@ namespace Mintc
                     {
                         // fich_stg.WriteLine("\n"+reseau.links[link_id].i + " " + reseau.links[link_id].j + " " + reseau.links[link_id].line + " " + reseau.links[id_pivot].i + " " + reseau.links[id_pivot].j + " " + reseau.links[id_pivot].line + " " + reseau.links[link_id].reached+" "+reseau.links[id_pivot].reached);
                         //                     PrintStrategies(reseau,fich_stg,list_trip[0]);
-                        if ((reseau.links[link_id].line != reseau.links[id_pivot].line) || (reseau.links[link_id].hdwy ==0 &&  reseau.links[id_pivot].hdwy == 0))
-//                            if ((reseau.links[id_pivot].j != reseau.links[link_id].i))// || (reseau.links[link_id].hdwy != 0 || reseau.links[id_pivot].hdwy != 0))
+                            if ((reseau.links[id_pivot].j != reseau.links[link_id].i) || (reseau.links[link_id].hdwy*reseau.links[id_pivot].hdwy> 0))
                         //if (!((reseau.links[id_pivot].i == reseau.links[link_id].j) & (reseau.links[link_id].hdwy == reseau.links[id_pivot].hdwy) & (reseau.links[link_id].hdwy*reseau.links[id_pivot].hdwy>0)))
                             {
                                 if (reseau.links[link_id].reached == 0)
